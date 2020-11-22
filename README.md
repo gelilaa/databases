@@ -86,7 +86,7 @@ The goal is to make this a very hands-on class. Nonetheless it's important to fa
 
 #### Before Break
 
-Check out this week's exercises [here](./week-1/sql-exercises.md).
+Check out this week's exercises [here](./week-1/README.md).
 
 #### After Break
 
@@ -131,7 +131,7 @@ Just as last week we want to focus on practice. But some preparation never hurts
 
 #### Before Break
 
-Check out this week's exercises [here](./week-2/sql-exercises.md).
+Check out this week's exercises [here](./week-2/README.md).
 
 #### After Break
 
@@ -167,7 +167,8 @@ Try to finish up your project!
 
 
 ### Class 9 & 10
+
 > [Dimitri Roose](https://github.com/sjimi), [Stijn Wynants](https://stackoverflow.com/users/1499018/stijn-wynants)
 
-1. Week 1
+1. [Week 1](https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=05594ce10542676cd7f00b5d118cb2f367054196-1605436121197) 
 2. Week 2
